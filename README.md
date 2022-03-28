@@ -13,3 +13,5 @@ https://lernantino.github.io/run-buddy.com
 ## Contribution
 Made with ❤️ by Chacko
 
+# Run Buddy Inc.
+
